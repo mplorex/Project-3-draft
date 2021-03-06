@@ -11,3 +11,15 @@ body {
     display: flex;
     margin: auto;
 }
+.location {
+    display: flex;
+    justify-content: center;
+}
+h6 {
+    font-size: 12px;
+    margin: 5px 0px 0px 10px;
+}
+i.fas.fa-map-marker-alt {
+    margin: 4px 0px 0px 10px;
+    font-size: 17px;
+}
