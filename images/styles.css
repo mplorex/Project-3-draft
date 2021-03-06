@@ -1,0 +1,13 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+.nav {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(224, 224, 224);
+}
+.nav img {
+    display: flex;
+    margin: auto;
+}
