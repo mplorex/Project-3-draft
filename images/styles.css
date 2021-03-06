@@ -16,6 +16,7 @@ body {
     justify-content: center;
     padding: 10px 0px 15px 0px;
     background-color: rgb(224, 224, 224);
+    color: rgb(82, 82, 82);
 }
 h6 {
     font-size: 13.5px;
@@ -24,4 +25,14 @@ h6 {
 i.fas.fa-map-marker-alt {
     margin: 4px 0px 0px 10px;
     font-size: 17px;
+}
+.book-menu {
+    display: flex;
+    flex-flow: column;
+}
+.explore-btn {
+    background-color: aqua;
+    width: 240px;
+    height: 40px;
+    border-radius: 20px;
 }
