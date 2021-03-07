@@ -46,3 +46,13 @@ i.fas.fa-map-marker-alt {
     height: 40px;
     border-radius: 20px;
 }
+.works {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.work-btn {
+    height: 55px;
+    margin: 20px;
+    background-color: #f6f6f6;
+}
