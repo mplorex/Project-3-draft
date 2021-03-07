@@ -61,3 +61,25 @@ i.fas.fa-map-marker-alt {
     background-color: #f6f6f6;
     border-radius: 20px;
 }
+i.fas.fa-mobile-alt {
+    margin-left: 30px;
+    padding-right: 20px;
+}
+i.fas.fa-list-ul {
+    margin-left: 30px; 
+    padding-right: 20px;  
+}
+i.fas.fa-store {
+    margin-left: 30px;
+    padding-right: 20px;
+}
+.res-card img {
+    width: 300px;
+}
+.restaurants {
+    background-color: #f6f6f6;
+}
+.res-card {
+    background-color: aqua;
+    width: 300px;
+}
