@@ -52,7 +52,12 @@ i.fas.fa-map-marker-alt {
     align-items: center;
 }
 .work-btn {
+    display: flex;
+    justify-content: left;
+    align-items: center;
     height: 55px;
+    width: 400px;
     margin: 20px;
     background-color: #f6f6f6;
+    border-radius: 20px;
 }
