@@ -29,8 +29,11 @@ i.fas.fa-map-marker-alt {
 .book-menu {
     display: flex;
     flex-flow: column;
+    align-items: center;
 }
 .explore-btn {
+    display: flex;
+    justify-content: center;
     background-color: aqua;
     width: 240px;
     height: 40px;
