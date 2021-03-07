@@ -77,9 +77,21 @@ i.fas.fa-store {
     width: 300px;
 }
 .restaurants {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
     background-color: #f6f6f6;
 }
 .res-card {
     background-color: aqua;
     width: 300px;
+    margin: 20px;
+    border-radius: 10px 10px 10px 10px;
+}
+.res-card p {
+    margin: 7px 0px 10px 10px;
+    padding-bottom: 5px;
+}
+.res-card img {
+    border-radius: 10px 10px 0px 0px;
 }
