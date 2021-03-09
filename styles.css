@@ -95,6 +95,12 @@ i.fas.fa-store {
 .res-card img {
     border-radius: 10px 10px 0px 0px;
 }
-.hearts {
-    text-align: right;
+.res-text-section {
+    display: flex;
+    flex-flow: row;
+}
+.heart {
+    padding-left: 120px;  
+    align-self: center;
+    font-size: 25px
 }
