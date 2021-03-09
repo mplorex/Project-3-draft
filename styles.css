@@ -109,4 +109,6 @@ i.fas.fa-store {
     width: 18px;
     height: 20px;
     border-radius: 15px;
+    margin: -5px;
+    text-align: center;
 }
